@@ -18,3 +18,5 @@ for character in sentence:
         result += character 
 
 print("The encrypted sentence is: ", result)
+
+
